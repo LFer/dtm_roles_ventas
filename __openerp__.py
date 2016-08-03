@@ -43,8 +43,7 @@ Caracteristicas Principales
     'depends': ['base'],
     'data': [
         'security/dtm_roles_ventas.xml',
-        #'security/ir.model.access.csv',
-        #'views/lmo_officer_view.xml',
+        'security/ir.model.access.csv',
     ],
     'demo': [],
     'test': [],
